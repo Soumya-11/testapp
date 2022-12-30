@@ -18,6 +18,6 @@
   "homepage": "https://github.com/Soumya-11/testapp#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "mocha": "^6.2.2"
+    "mocha": "^10.2.0"
   }
 }
